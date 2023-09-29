@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:account.statement.import.start,bank_account:"
+msgid "Bank Account"
+msgstr "Cuenta bancaria"
+
+msgctxt "field:account.statement.import.start,company_party:"
+msgid "Company Party"
+msgstr "Tercero de la Empresa"
+
+msgctxt "model:account.statement.origin.information,string:information_code"
+msgid "Code"
+msgstr "Código"
