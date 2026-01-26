@@ -56,6 +56,8 @@ class Credicoop(object):
             # Start reading at the second row
             if row[0].row == 1:
                 continue
+            if not row[0].value:
+                break
             move = Move()
             self._parse_move(row, move, MOVE)
             # 'Date from', in first row
